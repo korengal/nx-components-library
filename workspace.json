@@ -1,6 +1,7 @@
 {
   "version": 2,
   "projects": {
-    "my-new-library": "packages/my-new-library"
+    "my-new-library": "packages/my-new-library",
+    "my-new-library-e2e": "packages/my-new-library-e2e"
   }
 }
