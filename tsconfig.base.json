@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@components-library/workspace": ["packages/workspace/src/index.ts"],
       "@org-name/my-new-library": ["packages/my-new-library/src/index.ts"]
     }
   },
