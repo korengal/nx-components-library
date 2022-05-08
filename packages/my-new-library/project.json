@@ -1,5 +1,4 @@
 {
-  "root": "packages/my-new-library",
   "sourceRoot": "packages/my-new-library/src",
   "projectType": "library",
   "tags": [],

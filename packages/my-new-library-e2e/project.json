@@ -1,5 +1,4 @@
 {
-  "root": "packages/my-new-library-e2e",
   "sourceRoot": "packages/my-new-library-e2e/src",
   "projectType": "application",
   "targets": {
